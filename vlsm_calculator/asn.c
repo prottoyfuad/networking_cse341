@@ -1,7 +1,6 @@
 
 /**
  *  author  : prottoyfuad
- *  code    : VLSM Subnet Calculator
  *  created : June 10, 2021
 **/
 
@@ -258,19 +257,3 @@ int main() {
   printf("\n"), fflush(stdout);
   return 0;
 }
-
-/*
-  Case 01:
-
-  Case 02:
-
-  Case 03:
-
-  Case 04:
-
-  Case 05:
-
-  Case 06:
-
-  Case 07:
-*/
